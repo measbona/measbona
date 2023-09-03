@@ -1,15 +1,16 @@
 <h4 align="left">Greetings to everyone on the same earth!</h4>
 <h6 align="left">My Stats 🔥:</h6>
-<br clear="both">
+
+<!-- <br clear="both"> -->
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=measbona&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="140" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=measbona&locale=en&mode=weekly&theme=radical&hide_border=true&border_radius=5&date_format=j M[ Y]&order=3" height="117" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=measbona&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=measbona&locale=en&mode=weekly&theme=radical&hide_border=true&border_radius=5&date_format=j M[ Y]&order=3" height="200" alt="streak graph"  />
 </div>
 
-<img align="right" height="170" src="https://www.reactiongifs.us/wp-content/uploads/2018/06/giphy-2-1.gif"  />
+<img align="right" height="200" src="https://www.reactiongifs.us/wp-content/uploads/2018/06/giphy-2-1.gif"  />
 
-<div align="left">
+<div align="left" height="200">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -43,7 +44,7 @@
 
 <h6 align="left">My Activities 🏃‍♂️:</h6>
 
-<br clear="both">
+<!-- <br clear="both"> -->
 
 <img src="https://raw.githubusercontent.com/measbona/measbona/output/snake.svg" alt="Snake animation" />
 
@@ -51,11 +52,11 @@
   <img src="https://profile-counter.glitch.me/measbona/count.svg?"  />
 </div>
 
-<br clear="both">
+<!-- <br clear="both"> -->
 
 <h6 align="left">My Networking 📱:</h6>
 
-<br clear="both">
+<!-- <br clear="both"> -->
 
 <div align="center">
   <a href="https://www.facebook.com/cest.martinn/" target="_blank">
