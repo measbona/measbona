@@ -1,7 +1,5 @@
 <h4 align="left">Greetings to everyone on the same earth!</h4>
-###
 <h6 align="left">My Stats 🔥:</h6>
-###
 <br clear="both">
 
 <div align="left">
