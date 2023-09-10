@@ -3,9 +3,13 @@
 
 <!-- <br clear="both"> -->
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=measbona&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=measbona&locale=en&mode=weekly&theme=radical&hide_border=true&border_radius=5&date_format=j M[ Y]&order=3" height="200" alt="streak graph"  />
+<div align="left" style={{ display: 'flex', flex-direction: 'row' }}>
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=measbona&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="200" alt="languages graph"  />
+    <img src="https://streak-stats.demolab.com?user=measbona&locale=en&mode=weekly&theme=radical&hide_border=true&border_radius=5&date_format=j M[ Y]&order=3" height="200" alt="streak graph"  />
+  </div>
+
+  <a href="https://app.daily.dev/bonameas"><img src="https://api.daily.dev/devcards/ae7995486cf44bd79a51ecbef6f31bbf.png?r=25r" width="400" alt="MEAS Bona's Dev Card"/></a>
 </div>
 
 <img align="right" height="200" src="https://www.reactiongifs.us/wp-content/uploads/2018/06/giphy-2-1.gif"  />
